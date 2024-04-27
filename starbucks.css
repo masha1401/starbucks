@@ -1,0 +1,52 @@
+.ul{
+    list-style: none;
+}
+.bigmatcha{
+    position: absolute;
+    top: 120px;
+    left: 980px;
+}
+.pinkcup{
+    position: absolute;
+    bottom: 60px;
+    width: 110px;
+    left: 800px;
+}
+.pinklemonade{
+    position: absolute;
+    bottom: 60px;
+    width: 100px;
+    left: 650px;
+}
+.minimatcha{
+    position: absolute;
+    bottom: 60px;
+    width: 100px;
+    left: 515px;
+}
+.h1{
+    position:absolute;
+    left: 120px;
+}
+.greencircle{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background-color: #017143;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    clip-path: circle(600px at right 800px);
+}
+.h3{
+    font-family: sans-serif;
+    position:absolute;
+    bottom: 500px;
+    left: 200px;
+}
+.facebook{
+    background-color: #fff;
+    position: absolute;
+    right: 50px;
+    bottom: 500px;
+}
